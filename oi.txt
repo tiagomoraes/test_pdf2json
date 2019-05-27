@@ -1,0 +1,6850 @@
+
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+01/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+9.612,4004.508,380
+0,000
+0,0000,0000,00014.120,780
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+14.120,780
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.014.737,420
+1.013.905,600
+0,000831,820
+15148.182,170
+147.450,230
+0,000731,940
+1981.897,900
+81.634,780
+0,000263,120
+24645.671,330
+645.671,330
+0,0000,000
+28432.545,310
+432.230,020
+0,000315,290
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+6.295,84
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.142,170
+11.978,610
+(7)
+Estoque de Fechamento
+(9.1)
+11.906,740
+(10.2)Valor Acumulado no Mês
+6.295,84
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-71,870
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+7.785,5204.121,2200,0000,0000,0000,00011.906,740
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+840
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+01/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+7.240,6100,000
+0,000
+0,0000,0000,0007.240,610
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+7.240,610
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33485.807,860
+485.074,980
+0,000732,880
+36599.003,750
+597.362,300
+0,0001.641,450
+31055.711,110
+55.347,320
+0,000363,790
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+8.458,05
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.738,120
+4.502,490
+(7)
+Estoque de Fechamento
+(9.1)
+4.475,480
+(10.2)Valor Acumulado no Mês
+8.458,05
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-27,010
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+4.475,4800,0000,0000,0000,0000,0004.475,480
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+850
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+01/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+5.175,4900,000
+0,000
+0,0000,0000,0005.175,490
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+5.175,490
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52361.208,720
+361.015,580
+0,000193,140
+57351.230,570
+350.888,930
+0,000341,640
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+1.331,07
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+534,780
+4.640,710
+(7)
+Estoque de Fechamento
+(9.1)
+4.613,230
+(10.2)Valor Acumulado no Mês
+1.331,07
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-27,480
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+4.613,2300,0000,0000,0000,0000,0004.613,230
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+860
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+02/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+7.785,5204.121,220
+0,000
+0,0000,0000,00011.906,740
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+11.906,740
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.015.932,420
+1.014.737,420
+0,0001.195,000
+15149.081,240
+148.182,170
+0,000899,070
+1982.224,470
+81.897,900
+0,000326,570
+24645.671,330
+645.671,330
+0,0000,000
+28432.994,150
+432.545,310
+0,000448,840
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+8.433,40
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.869,480
+9.037,260
+(7)
+Estoque de Fechamento
+(9.1)
+9.091,480
+(10.2)Valor Acumulado no Mês
+14.729,24
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+54,220
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+5.419,1003.672,3800,0000,0000,0000,0009.091,480
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+870
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+02/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+4.475,4800,000
+0,000
+0,0000,0000,0004.475,480
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+4.475,480
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33486.754,540
+485.807,860
+0,000946,680
+36600.594,300
+599.003,750
+0,0001.590,550
+31056.112,910
+55.711,110
+0,000401,800
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+9.078,66
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.939,030
+1.536,450
+(7)
+Estoque de Fechamento
+(9.1)
+1.545,660
+(10.2)Valor Acumulado no Mês
+17.536,72
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+9,210
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+1.545,6600,0000,0000,0000,0000,0001.545,660
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+880
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+02/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+4.613,2300,000
+0,000
+0,0000,0000,0004.613,230
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+4.613,230
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52361.626,460
+361.208,720
+0,000417,740
+57351.653,490
+351.230,570
+0,000422,920
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+2.092,40
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+840,660
+3.772,570
+(7)
+Estoque de Fechamento
+(9.1)
+3.749,940
+(10.2)Valor Acumulado no Mês
+3.423,47
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-22,630
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+3.749,9400,0000,0000,0000,0000,0003.749,940
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+890
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+03/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+5.419,1003.672,380
+0,000
+0,0000,0000,0009.091,480
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+174642
+de
+03/05/201417.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+7.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+16.091,480
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.017.007,370
+1.015.932,420
+0,0001.074,950
+15150.003,700
+149.081,240
+0,000922,460
+1982.624,090
+82.224,470
+0,000399,620
+24645.671,330
+645.671,330
+0,0000,000
+28433.588,440
+432.994,150
+0,000594,290
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+8.791,49
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.991,320
+13.100,160
+(7)
+Estoque de Fechamento
+(9.1)
+13.178,760
+(10.2)Valor Acumulado no Mês
+23.520,73
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+78,600
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+10.022,0703.156,6900,0000,0000,0000,00013.178,760
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+900
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+03/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+1.545,6600,000
+0,000
+0,0000,0000,0001.545,660
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+174642
+de
+03/05/201435.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+6.545,660
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33487.930,640
+486.754,540
+0,0001.176,100
+36601.751,850
+600.594,300
+0,0001.157,550
+31056.437,460
+56.112,910
+0,000324,550
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+8.211,18
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.658,200
+3.887,460
+(7)
+Estoque de Fechamento
+(9.1)
+3.910,780
+(10.2)Valor Acumulado no Mês
+25.747,90
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+23,320
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+3.910,7800,0000,0000,0000,0000,0003.910,780
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+910
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+03/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+3.749,9400,000
+0,000
+0,0000,0000,0003.749,940
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+3.749,940
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52361.973,080
+361.626,460
+0,000346,620
+57351.941,000
+351.653,490
+0,000287,510
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+1.578,35
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+634,130
+3.115,810
+(7)
+Estoque de Fechamento
+(9.1)
+3.097,120
+(10.2)Valor Acumulado no Mês
+5.001,82
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-18,690
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+3.097,1200,0000,0000,0000,0000,0003.097,120
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+920
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+04/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+10.022,0703.156,690
+0,000
+0,0000,0000,00013.178,760
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+13.178,760
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.017.912,980
+1.017.007,370
+0,000905,610
+15150.836,010
+150.003,700
+0,000832,310
+1982.925,240
+82.624,090
+0,000301,150
+24645.671,330
+645.671,330
+0,0000,000
+28434.128,120
+433.588,440
+0,000539,680
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+7.578,95
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.578,750
+10.600,010
+(7)
+Estoque de Fechamento
+(9.1)
+10.663,610
+(10.2)Valor Acumulado no Mês
+31.099,68
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+63,600
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+8.046,6002.617,0100,0000,0000,0000,00010.663,610
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+930
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+04/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+3.910,7800,000
+0,000
+0,0000,0000,0003.910,780
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+3.910,780
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33488.405,630
+487.930,640
+0,000474,990
+36602.989,510
+601.751,850
+0,0001.237,660
+31056.635,220
+56.437,460
+0,000197,760
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+5.901,26
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+1.910,410
+2.000,370
+(7)
+Estoque de Fechamento
+(9.1)
+2.012,370
+(10.2)Valor Acumulado no Mês
+31.649,15
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+12,000
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+2.012,3700,0000,0000,0000,0000,0002.012,370
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+940
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+04/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+3.097,1200,000
+0,000
+0,0000,0000,0003.097,120
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+3.097,120
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52362.292,610
+361.973,080
+0,000319,530
+57352.282,000
+351.941,000
+0,000341,000
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+1.644,06
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+660,530
+2.436,590
+(7)
+Estoque de Fechamento
+(9.1)
+2.421,980
+(10.2)Valor Acumulado no Mês
+6.645,88
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-14,610
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+2.421,9800,0000,0000,0000,0000,0002.421,980
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+950
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+05/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+8.046,6002.617,010
+0,000
+0,0000,0000,00010.663,610
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+174830
+de
+05/05/201425.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+15.663,610
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.019.411,640
+1.017.912,980
+0,0001.498,660
+15151.396,480
+150.836,010
+0,000560,470
+1983.645,330
+82.925,240
+0,000720,090
+24645.671,330
+645.671,330
+0,0000,000
+28435.242,280
+434.128,120
+0,0001.114,160
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+11.442,64
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.893,380
+11.770,230
+(7)
+Estoque de Fechamento
+(9.1)
+11.840,850
+(10.2)Valor Acumulado no Mês
+42.542,32
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+70,620
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+5.338,0006.502,8500,0000,0000,0000,00011.840,850
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+960
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+05/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+2.012,3700,000
+0,000
+0,0000,0000,0002.012,370
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+174830
+de
+05/05/201435.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+7.012,370
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33489.138,550
+488.405,630
+0,000732,920
+36604.119,850
+602.989,510
+0,0001.130,340
+31057.059,430
+56.635,220
+0,000424,210
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+7.065,99
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.287,470
+4.724,900
+(7)
+Estoque de Fechamento
+(9.1)
+4.710,000
+(10.2)Valor Acumulado no Mês
+38.715,15
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-14,900
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+4.710,0000,0000,0000,0000,0000,0004.710,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+970
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+05/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+2.421,9800,000
+0,000
+0,0000,0000,0002.421,980
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+2.421,980
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52362.709,000
+362.292,610
+0,000416,390
+57352.643,470
+352.282,000
+0,000361,470
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+1.936,09
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+777,860
+1.644,120
+(7)
+Estoque de Fechamento
+(9.1)
+1.634,260
+(10.2)Valor Acumulado no Mês
+8.581,97
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-9,860
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+1.634,2600,0000,0000,0000,0000,0001.634,260
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+980
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+06/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+5.338,0006.502,850
+0,000
+0,0000,0000,00011.840,850
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+11.840,850
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.020.990,340
+1.019.411,640
+0,0001.578,700
+15152.119,410
+151.396,480
+0,000722,930
+1984.423,620
+83.645,330
+0,000778,290
+24645.671,330
+645.671,330
+0,0000,000
+28435.995,570
+435.242,280
+0,000753,290
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+11.265,80
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.833,210
+8.007,640
+(7)
+Estoque de Fechamento
+(9.1)
+8.055,680
+(10.2)Valor Acumulado no Mês
+53.808,12
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+48,040
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+2.306,1205.749,5600,0000,0000,0000,0008.055,680
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+990
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+06/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+4.710,0000,000
+0,000
+0,0000,0000,0004.710,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+174991
+de
+06/05/201435.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+9.710,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33489.829,740
+489.138,550
+0,000691,190
+36605.944,400
+604.119,850
+0,0001.824,550
+31057.337,190
+57.059,430
+0,000277,760
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+8.629,12
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.793,500
+6.916,500
+(7)
+Estoque de Fechamento
+(9.1)
+6.921,000
+(10.2)Valor Acumulado no Mês
+47.344,27
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+4,500
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+6.921,0000,0000,0000,0000,0000,0006.921,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1000
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+06/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+1.634,2600,000
+0,000
+0,0000,0000,0001.634,260
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+174956
+de
+06/05/201455.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+6.634,260
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52363.129,240
+362.709,000
+0,000420,240
+57353.133,800
+352.643,470
+0,000490,330
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+2.266,41
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+910,570
+5.723,690
+(7)
+Estoque de Fechamento
+(9.1)
+5.689,350
+(10.2)Valor Acumulado no Mês
+10.848,38
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-34,340
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+5.689,3500,0000,0000,0000,0000,0005.689,350
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1010
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+07/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+2.306,1205.749,560
+0,000
+0,0000,0000,0008.055,680
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+175074
+de
+06/05/201417.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+7.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+15.055,680
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.022.269,250
+1.020.990,340
+0,0001.278,910
+15153.225,850
+152.119,410
+0,0001.106,440
+1984.780,080
+84.423,620
+0,000356,460
+24645.808,960
+645.671,330
+0,000137,630
+28436.374,210
+435.995,570
+0,000378,640
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+9.575,50
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.258,080
+11.797,600
+(7)
+Estoque de Fechamento
+(9.1)
+11.868,380
+(10.2)Valor Acumulado no Mês
+63.383,62
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+70,780
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+6.635,0905.233,2900,0000,0000,0000,00011.868,380
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1020
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+07/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+6.921,0000,000
+0,000
+0,0000,0000,0006.921,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+175074
+de
+06/05/201435.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+11.921,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33491.226,160
+489.829,740
+0,0001.396,420
+36608.287,830
+605.944,400
+0,0002.343,430
+31058.073,380
+57.337,190
+0,000736,190
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+13.826,49
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+4.476,040
+7.444,960
+(7)
+Estoque de Fechamento
+(9.1)
+7.466,000
+(10.2)Valor Acumulado no Mês
+61.170,76
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+21,040
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+7.466,0000,0000,0000,0000,0000,0007.466,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1030
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+07/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+5.689,3500,000
+0,000
+0,0000,0000,0005.689,350
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+5.689,350
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52363.376,790
+363.129,240
+0,000247,550
+57353.496,250
+353.133,800
+0,000362,450
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+1.518,29
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+610,000
+5.079,350
+(7)
+Estoque de Fechamento
+(9.1)
+5.095,000
+(10.2)Valor Acumulado no Mês
+12.366,67
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+15,650
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+5.095,0000,0000,0000,0000,0000,0005.095,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1040
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+08/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+6.635,0905.233,290
+0,000
+0,0000,0000,00011.868,380
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+11.868,380
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.023.788,640
+1.022.269,250
+0,0001.519,390
+15154.374,120
+153.225,850
+0,0001.148,270
+1985.384,340
+84.780,080
+0,000604,260
+24645.808,960
+645.808,960
+0,0000,000
+28436.931,420
+436.374,210
+0,000557,210
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+11.253,81
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.829,130
+8.039,250
+(7)
+Estoque de Fechamento
+(9.1)
+8.087,480
+(10.2)Valor Acumulado no Mês
+74.637,43
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+48,230
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+3.411,4004.676,0800,0000,0000,0000,0008.087,480
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1050
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+08/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+7.466,0000,000
+0,000
+0,0000,0000,0007.466,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+7.466,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33492.321,470
+491.226,160
+0,0001.095,310
+36609.970,680
+608.287,830
+0,0001.682,850
+31058.551,720
+58.073,380
+0,000478,340
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+10.059,33
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.256,500
+4.209,500
+(7)
+Estoque de Fechamento
+(9.1)
+4.234,750
+(10.2)Valor Acumulado no Mês
+71.230,09
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+25,250
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+4.234,7500,0000,0000,0000,0000,0004.234,750
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1060
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+08/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+5.095,0000,000
+0,000
+0,0000,0000,0005.095,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+5.095,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52363.726,670
+363.376,790
+0,000349,880
+57353.879,260
+353.496,250
+0,000383,010
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+1.824,16
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+732,890
+4.362,110
+(7)
+Estoque de Fechamento
+(9.1)
+4.360,000
+(10.2)Valor Acumulado no Mês
+14.190,83
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-2,110
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+4.360,0000,0000,0000,0000,0000,0004.360,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1070
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+09/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+3.411,4004.676,080
+0,000
+0,0000,0000,0008.087,480
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+175401
+de
+09/05/201415.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+13.087,480
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.024.879,770
+1.023.788,640
+0,0001.091,130
+15155.297,870
+154.374,120
+0,000923,750
+1985.879,230
+85.384,340
+0,000494,890
+24646.092,700
+645.808,960
+40,020243,720
+28437.563,290
+436.931,420
+0,000631,870
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+9.949,57
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.385,360
+9.702,120
+(7)
+Estoque de Fechamento
+(9.1)
+9.760,330
+(10.2)Valor Acumulado no Mês
+84.587,01
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+58,210
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+5.959,8403.800,4900,0000,0000,0000,0009.760,330
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1080
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+09/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+4.234,7500,000
+0,000
+0,0000,0000,0004.234,750
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+4.234,750
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33493.585,300
+492.321,470
+0,0001.263,830
+36611.784,060
+609.970,680
+0,0001.813,380
+31059.256,670
+58.551,720
+0,000704,950
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+11.683,09
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.782,160
+452,590
+(7)
+Estoque de Fechamento
+(9.1)
+452,590
+(10.2)Valor Acumulado no Mês
+82.913,18
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+0,000
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+452,5900,0000,0000,0000,0000,000452,590
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1090
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+09/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+4.360,0000,000
+0,000
+0,0000,0000,0004.360,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+4.360,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52364.081,850
+363.726,670
+0,000355,180
+57354.445,120
+353.879,260
+0,000565,860
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+2.292,47
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+921,040
+3.438,960
+(7)
+Estoque de Fechamento
+(9.1)
+3.459,590
+(10.2)Valor Acumulado no Mês
+16.483,30
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+20,630
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+3.459,5900,0000,0000,0000,0000,0003.459,590
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1100
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+10/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+5.959,8403.800,490
+0,000
+0,0000,0000,0009.760,330
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+175538
+de
+10/05/201425.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+14.760,330
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.025.649,450
+1.024.879,770
+0,000769,680
+15156.169,590
+155.297,870
+0,000871,720
+1986.319,440
+85.879,230
+0,000440,210
+24646.474,020
+646.092,700
+0,000381,320
+28437.969,000
+437.563,290
+0,000405,710
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+8.430,93
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.868,640
+11.891,690
+(7)
+Estoque de Fechamento
+(9.1)
+11.916,690
+(10.2)Valor Acumulado no Mês
+93.017,94
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+25,000
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+3.903,2308.013,4600,0000,0000,0000,00011.916,690
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1110
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+10/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+452,5900,000
+0,000
+0,0000,0000,000452,590
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+175538
+de
+10/05/201435.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+5.452,590
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33494.757,910
+493.585,300
+0,0001.172,610
+36613.182,560
+611.784,060
+0,0001.398,500
+31059.770,320
+59.256,670
+0,000513,650
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+9.528,82
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.084,760
+2.367,830
+(7)
+Estoque de Fechamento
+(9.1)
+2.382,030
+(10.2)Valor Acumulado no Mês
+92.442,00
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+14,200
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+2.382,0300,0000,0000,0000,0000,0002.382,030
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1120
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+10/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+3.459,5900,000
+0,000
+0,0000,0000,0003.459,590
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+175538
+de
+10/05/201455.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+8.459,590
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52364.595,330
+364.081,850
+0,000513,480
+57354.935,040
+354.445,120
+0,000489,920
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+2.497,46
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+1.003,400
+7.456,190
+(7)
+Estoque de Fechamento
+(9.1)
+7.471,590
+(10.2)Valor Acumulado no Mês
+18.980,77
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+15,400
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+7.471,5900,0000,0000,0000,0000,0007.471,590
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1130
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+11/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+3.903,2308.013,460
+0,000
+0,0000,0000,00011.916,690
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+11.916,690
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.026.519,540
+1.025.649,450
+0,000870,090
+15157.219,080
+156.169,590
+0,0001.049,490
+1986.624,380
+86.319,440
+0,000304,940
+24646.930,790
+646.474,020
+0,000456,770
+28438.409,080
+437.969,000
+0,000440,080
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+9.173,71
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.121,370
+8.795,320
+(7)
+Estoque de Fechamento
+(9.1)
+8.792,320
+(10.2)Valor Acumulado no Mês
+102.191,65
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-3,000
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+1.675,7107.116,6100,0000,0000,0000,0008.792,320
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1140
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+11/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+2.382,0300,000
+0,000
+0,0000,0000,0002.382,030
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+2.382,030
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33495.398,740
+494.757,910
+0,000640,830
+36614.238,170
+613.182,560
+0,0001.055,610
+31060.118,840
+59.770,320
+0,000348,520
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+6.316,88
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.044,960
+337,070
+(7)
+Estoque de Fechamento
+(9.1)
+337,070
+(10.2)Valor Acumulado no Mês
+98.758,88
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+0,000
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+337,0700,0000,0000,0000,0000,000337,070
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1150
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+11/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+7.471,5900,000
+0,000
+0,0000,0000,0007.471,590
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+7.471,590
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52364.907,410
+364.595,330
+0,000312,080
+57355.480,630
+354.935,040
+0,000545,590
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+2.134,74
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+857,670
+6.613,920
+(7)
+Estoque de Fechamento
+(9.1)
+6.653,600
+(10.2)Valor Acumulado no Mês
+21.115,51
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+39,680
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+6.653,6000,0000,0000,0000,0000,0006.653,600
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1160
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+12/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+1.675,7107.116,610
+0,000
+0,0000,0000,0008.792,320
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+175659
+de
+12/05/201415.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+13.792,320
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.027.400,960
+1.026.519,540
+0,000881,420
+15158.424,510
+157.219,080
+0,0001.205,430
+1987.285,590
+86.624,380
+0,000661,210
+24648.346,670
+646.930,790
+0,0001.415,880
+28440.133,390
+438.409,080
+0,0001.724,310
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+17.305,57
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+5.888,250
+7.904,070
+(7)
+Estoque de Fechamento
+(9.1)
+7.857,070
+(10.2)Valor Acumulado no Mês
+119.497,21
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-47,000
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+3.927,6503.929,4200,0000,0000,0000,0007.857,070
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1170
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+12/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+337,0700,000
+0,000
+0,0000,0000,000337,070
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+175659
+de
+12/05/201435.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+5.337,070
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33495.790,260
+495.398,740
+0,000391,520
+36615.096,750
+614.238,170
+0,000858,580
+31060.303,460
+60.118,840
+0,000184,620
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+4.431,85
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+1.434,720
+3.902,350
+(7)
+Estoque de Fechamento
+(9.1)
+3.909,000
+(10.2)Valor Acumulado no Mês
+103.190,73
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+6,650
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+3.909,0000,0000,0000,0000,0000,0003.909,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1180
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+12/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+6.653,6000,000
+0,000
+0,0000,0000,0006.653,600
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+6.653,600
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52365.268,950
+364.907,410
+0,000361,540
+57355.804,420
+355.480,630
+0,000323,790
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+1.705,79
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+685,330
+5.968,270
+(7)
+Estoque de Fechamento
+(9.1)
+5.977,000
+(10.2)Valor Acumulado no Mês
+22.821,29
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+8,730
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+5.977,0000,0000,0000,0000,0000,0005.977,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1190
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+13/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+3.927,6503.929,420
+0,000
+0,0000,0000,0007.857,070
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+175799
+de
+13/05/201415.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+12.857,070
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.027.984,800
+1.027.400,960
+0,000583,840
+15159.447,110
+158.424,510
+0,0001.022,600
+1987.686,630
+87.285,590
+0,000401,040
+24648.992,650
+648.346,670
+0,000645,980
+28440.448,790
+440.133,390
+0,000315,400
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+8.725,48
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.968,860
+9.888,210
+(7)
+Estoque de Fechamento
+(9.1)
+9.947,530
+(10.2)Valor Acumulado no Mês
+128.222,69
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+59,320
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+6.979,4902.968,0400,0000,0000,0000,0009.947,530
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1200
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+13/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+3.909,0000,000
+0,000
+0,0000,0000,0003.909,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+175799
+de
+13/05/201435.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+8.909,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33496.502,630
+495.790,260
+0,000712,370
+36616.441,040
+615.096,750
+0,0001.344,290
+31060.780,670
+60.303,460
+0,000477,210
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+7.827,12
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.533,870
+6.375,130
+(7)
+Estoque de Fechamento
+(9.1)
+6.378,000
+(10.2)Valor Acumulado no Mês
+111.017,86
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+2,870
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+6.378,0000,0000,0000,0000,0000,0006.378,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1210
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+13/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+5.977,0000,000
+0,000
+0,0000,0000,0005.977,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+5.977,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52365.594,360
+365.268,950
+0,000325,410
+57356.206,440
+355.804,420
+0,000402,020
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+1.810,57
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+727,430
+5.249,570
+(7)
+Estoque de Fechamento
+(9.1)
+5.281,060
+(10.2)Valor Acumulado no Mês
+24.631,87
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+31,490
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+5.281,0600,0000,0000,0000,0000,0005.281,060
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1220
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+14/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+6.979,4902.968,040
+0,000
+0,0000,0000,0009.947,530
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+175956
+de
+14/05/201425.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+14.947,530
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.028.727,540
+1.027.984,800
+0,000742,740
+15160.588,950
+159.447,110
+0,0001.141,840
+1987.951,950
+87.686,630
+0,000265,320
+24649.550,220
+648.992,650
+0,000557,570
+28440.869,700
+440.448,790
+0,000420,910
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+9.194,31
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.128,380
+11.819,150
+(7)
+Estoque de Fechamento
+(9.1)
+11.813,000
+(10.2)Valor Acumulado no Mês
+137.417,00
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-6,150
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+4.823,4406.989,5600,0000,0000,0000,00011.813,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1230
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+14/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+6.378,0000,000
+0,000
+0,0000,0000,0006.378,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+6.378,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33497.371,430
+496.502,630
+0,000868,800
+36617.870,600
+616.441,040
+0,0001.429,560
+31061.302,760
+60.780,670
+0,000522,090
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+8.712,37
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.820,450
+3.557,550
+(7)
+Estoque de Fechamento
+(9.1)
+3.556,000
+(10.2)Valor Acumulado no Mês
+119.730,23
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-1,550
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+3.556,0000,0000,0000,0000,0000,0003.556,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1240
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+14/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+5.281,0600,000
+0,000
+0,0000,0000,0005.281,060
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+5.281,060
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52366.102,390
+365.594,360
+0,000508,030
+57356.669,980
+356.206,440
+0,000463,540
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+2.418,24
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+971,570
+4.309,490
+(7)
+Estoque de Fechamento
+(9.1)
+4.335,340
+(10.2)Valor Acumulado no Mês
+27.050,10
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+25,850
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+4.335,3400,0000,0000,0000,0000,0004.335,340
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1250
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+15/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+4.823,4406.989,560
+0,000
+0,0000,0000,00011.813,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+11.813,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.029.604,530
+1.028.727,540
+0,000876,990
+15161.488,580
+160.588,950
+0,000899,630
+1988.273,000
+87.951,950
+0,000321,050
+24650.065,770
+649.550,220
+0,000515,550
+28441.299,560
+440.869,700
+0,000429,860
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+8.943,61
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.043,080
+8.769,920
+(7)
+Estoque de Fechamento
+(9.1)
+8.760,000
+(10.2)Valor Acumulado no Mês
+146.360,61
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-9,920
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+2.725,7706.034,2300,0000,0000,0000,0008.760,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1260
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+15/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+3.556,0000,000
+0,000
+0,0000,0000,0003.556,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+176082
+de
+15/05/201435.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+8.556,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33498.183,710
+497.371,430
+0,000812,280
+36619.200,210
+617.870,600
+0,0001.329,610
+31061.693,970
+61.302,760
+0,000391,210
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+7.824,75
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.533,100
+6.022,900
+(7)
+Estoque de Fechamento
+(9.1)
+6.059,030
+(10.2)Valor Acumulado no Mês
+127.554,97
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+36,130
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+6.059,0300,0000,0000,0000,0000,0006.059,030
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1270
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+15/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+4.335,3400,000
+0,000
+0,0000,0000,0004.335,340
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+4.335,340
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52366.449,500
+366.102,390
+0,000347,110
+57356.922,220
+356.669,980
+0,000252,240
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+1.491,78
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+599,350
+3.735,990
+(7)
+Estoque de Fechamento
+(9.1)
+3.720,000
+(10.2)Valor Acumulado no Mês
+28.541,89
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-15,990
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+3.720,0000,0000,0000,0000,0000,0003.720,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1280
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+16/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+2.725,7706.034,230
+0,000
+0,0000,0000,0008.760,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+176212
+de
+16/05/201415.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+13.760,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.030.276,270
+1.029.604,530
+0,000671,740
+15162.460,670
+161.488,580
+0,000972,090
+1988.774,760
+88.273,000
+0,000501,760
+24650.762,360
+650.065,770
+0,000696,590
+28441.729,350
+441.299,560
+0,000429,790
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+9.616,32
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.271,970
+10.488,030
+(7)
+Estoque de Fechamento
+(9.1)
+10.467,000
+(10.2)Valor Acumulado no Mês
+155.976,93
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-21,030
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+5.580,1804.886,8200,0000,0000,0000,00010.467,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1290
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+16/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+6.059,0300,000
+0,000
+0,0000,0000,0006.059,030
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+6.059,030
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33499.238,130
+498.183,710
+0,0001.054,420
+36620.699,910
+619.200,210
+0,0001.499,700
+31062.361,200
+61.693,970
+0,000667,230
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+9.950,75
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.221,350
+2.837,680
+(7)
+Estoque de Fechamento
+(9.1)
+2.854,700
+(10.2)Valor Acumulado no Mês
+137.505,72
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+17,020
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+2.854,7000,0000,0000,0000,0000,0002.854,700
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1300
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+16/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+3.720,0000,000
+0,000
+0,0000,0000,0003.720,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+3.720,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52366.920,460
+366.449,500
+0,000470,960
+57357.398,240
+356.922,220
+0,000476,020
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+2.357,03
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+946,980
+2.773,020
+(7)
+Estoque de Fechamento
+(9.1)
+2.789,000
+(10.2)Valor Acumulado no Mês
+30.898,92
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+15,980
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+2.789,0000,0000,0000,0000,0000,0002.789,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1310
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+17/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+5.580,1804.886,820
+0,000
+0,0000,0000,00010.467,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+176301
+de
+17/05/201415.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+15.467,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.031.046,420
+1.030.276,270
+0,000770,150
+15163.210,160
+162.460,670
+0,000749,490
+1989.222,420
+88.774,760
+0,000447,660
+24651.429,030
+650.762,360
+0,000666,670
+28442.464,030
+441.729,350
+0,000734,680
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+9.900,46
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.368,650
+12.098,350
+(7)
+Estoque de Fechamento
+(9.1)
+12.098,350
+(10.2)Valor Acumulado no Mês
+165.877,40
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+0,000
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+8.612,8803.485,4700,0000,0000,0000,00012.098,350
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1320
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+17/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+2.854,7000,000
+0,000
+0,0000,0000,0002.854,700
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+176301
+de
+17/05/201435.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+7.854,700
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33500.171,270
+499.238,130
+0,000933,140
+36622.136,370
+620.699,910
+0,0001.436,460
+31062.626,490
+62.361,200
+0,000265,290
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+8.139,18
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.634,890
+5.219,810
+(7)
+Estoque de Fechamento
+(9.1)
+5.237,110
+(10.2)Valor Acumulado no Mês
+145.644,90
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+17,300
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+5.237,1100,0000,0000,0000,0000,0005.237,110
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1330
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+17/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+2.789,0000,000
+0,000
+0,0000,0000,0002.789,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+2.789,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52367.218,370
+366.920,460
+0,000297,910
+57357.895,810
+357.398,240
+0,000497,570
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+1.979,95
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+795,480
+1.993,520
+(7)
+Estoque de Fechamento
+(9.1)
+1.993,520
+(10.2)Valor Acumulado no Mês
+32.878,87
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+0,000
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+1.993,5200,0000,0000,0000,0000,0001.993,520
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1340
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+18/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+8.612,8803.485,470
+0,000
+0,0000,0000,00012.098,350
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+12.098,350
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.031.521,400
+1.031.046,420
+0,000474,980
+15163.903,600
+163.210,160
+0,000693,440
+1989.432,080
+89.222,420
+0,000209,660
+24651.712,230
+651.429,030
+0,000283,200
+28442.661,380
+442.464,030
+0,000197,350
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+5.462,51
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+1.858,630
+10.239,720
+(7)
+Estoque de Fechamento
+(9.1)
+10.214,000
+(10.2)Valor Acumulado no Mês
+171.339,91
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-25,720
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+7.234,8002.979,2000,0000,0000,0000,00010.214,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1350
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+18/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+5.237,1100,000
+0,000
+0,0000,0000,0005.237,110
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+5.237,110
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33500.934,120
+500.171,270
+0,000762,850
+36623.416,220
+622.136,370
+0,0001.279,850
+31062.796,310
+62.626,490
+0,000169,820
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+6.834,47
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.212,520
+3.024,590
+(7)
+Estoque de Fechamento
+(9.1)
+3.006,450
+(10.2)Valor Acumulado no Mês
+152.479,37
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-18,140
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+3.006,4500,0000,0000,0000,0000,0003.006,450
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1360
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+18/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+1.993,5200,000
+0,000
+0,0000,0000,0001.993,520
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+1.993,520
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52367.571,030
+367.218,370
+0,000352,660
+57358.365,880
+357.895,810
+0,000470,070
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+2.047,77
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+822,730
+1.170,790
+(7)
+Estoque de Fechamento
+(9.1)
+1.177,000
+(10.2)Valor Acumulado no Mês
+34.926,64
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+6,210
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+1.177,0000,0000,0000,0000,0000,0001.177,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1370
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+19/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+7.234,8002.979,200
+0,000
+0,0000,0000,00010.214,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+10.214,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.032.279,850
+1.031.521,400
+0,000758,450
+15165.006,730
+163.903,600
+0,0001.103,130
+1990.172,850
+89.432,080
+0,000740,770
+24652.241,000
+651.712,230
+0,000528,770
+28443.167,540
+442.661,380
+0,000506,160
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+10.689,97
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.637,280
+6.576,720
+(7)
+Estoque de Fechamento
+(9.1)
+6.616,180
+(10.2)Valor Acumulado no Mês
+182.029,87
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+39,460
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+4.671,9101.944,2700,0000,0000,0000,0006.616,180
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1380
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+19/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+3.006,4500,000
+0,000
+0,0000,0000,0003.006,450
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+3.006,450
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33502.162,170
+500.934,120
+0,0001.228,050
+36624.797,380
+623.416,220
+0,0001.381,160
+31063.193,550
+62.796,310
+0,000397,240
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+9.286,92
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.006,450
+0,000
+(7)
+Estoque de Fechamento
+(9.1)
+0,000
+(10.2)Valor Acumulado no Mês
+161.766,30
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+0,000
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+0,0000,0000,0000,0000,0000,0000,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1390
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+19/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+1.177,0000,000
+0,000
+0,0000,0000,0001.177,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+1.177,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52367.767,350
+367.571,030
+0,000196,320
+57358.719,000
+358.365,880
+0,000353,120
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+1.367,56
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+549,440
+627,560
+(7)
+Estoque de Fechamento
+(9.1)
+627,560
+(10.2)Valor Acumulado no Mês
+36.294,20
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+0,000
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+627,5600,0000,0000,0000,0000,000627,560
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1400
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+20/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+4.671,9101.944,270
+0,000
+0,0000,0000,0006.616,180
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+176570
+de
+19/05/201425.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+11.616,180
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.033.176,050
+1.032.279,850
+0,000896,200
+15166.525,680
+165.006,730
+0,0001.518,950
+1991.037,080
+90.172,850
+0,000864,230
+24652.929,120
+652.241,000
+0,000688,120
+28443.847,880
+443.167,540
+0,000680,340
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+13.660,00
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+4.647,840
+6.968,340
+(7)
+Estoque de Fechamento
+(9.1)
+6.968,000
+(10.2)Valor Acumulado no Mês
+195.689,88
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-0,340
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+1.392,1905.575,8100,0000,0000,0000,0006.968,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1410
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+20/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+0,0000,000
+0,000
+0,0000,0000,0000,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+176505
+de
+20/05/201435.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+5.000,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33502.674,540
+502.162,170
+0,000512,370
+36625.535,410
+624.797,380
+0,000738,030
+31063.549,350
+63.193,550
+0,000355,800
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+4.961,55
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+1.606,200
+3.393,800
+(7)
+Estoque de Fechamento
+(9.1)
+3.373,440
+(10.2)Valor Acumulado no Mês
+166.727,85
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-20,360
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+3.373,4400,0000,0000,0000,0000,0003.373,440
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1420
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+20/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+627,5600,000
+0,000
+0,0000,0000,000627,560
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+176680
+de
+20/05/201455.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+5.627,560
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52368.054,190
+367.767,350
+0,000286,840
+57359.041,230
+358.719,000
+0,000322,230
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+1.515,98
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+609,070
+5.018,490
+(7)
+Estoque de Fechamento
+(9.1)
+4.999,000
+(10.2)Valor Acumulado no Mês
+37.810,17
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-19,490
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+4.999,0000,0000,0000,0000,0000,0004.999,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1430
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+21/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+1.392,1905.575,810
+0,000
+0,0000,0000,0006.968,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+176752
+de
+21/05/201415.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+11.968,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.033.806,660
+1.033.176,050
+0,000630,610
+15167.641,620
+166.525,680
+0,0001.115,940
+1991.459,750
+91.037,080
+0,000422,670
+24653.347,000
+652.929,120
+0,000417,880
+28444.386,320
+443.847,880
+0,000538,440
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+9.185,96
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.125,540
+8.842,460
+(7)
+Estoque de Fechamento
+(9.1)
+8.877,000
+(10.2)Valor Acumulado no Mês
+204.875,84
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+34,540
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+4.257,5104.619,4900,0000,0000,0000,0008.877,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1440
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+21/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+3.373,4400,000
+0,000
+0,0000,0000,0003.373,440
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+176752
+de
+21/05/201435.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+8.373,440
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33503.392,410
+502.674,540
+0,000717,870
+36626.761,330
+625.535,410
+0,0001.225,920
+31064.020,530
+63.549,350
+0,000471,180
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+7.459,84
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.414,970
+5.958,470
+(7)
+Estoque de Fechamento
+(9.1)
+5.994,220
+(10.2)Valor Acumulado no Mês
+174.187,69
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+35,750
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+5.994,2200,0000,0000,0000,0000,0005.994,220
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1450
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+21/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+4.999,0000,000
+0,000
+0,0000,0000,0004.999,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+4.999,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52368.454,550
+368.054,190
+0,000400,360
+57359.554,220
+359.041,230
+0,000512,990
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+2.273,33
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+913,350
+4.085,650
+(7)
+Estoque de Fechamento
+(9.1)
+4.083,000
+(10.2)Valor Acumulado no Mês
+40.083,50
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-2,650
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+4.083,0000,0000,0000,0000,0000,0004.083,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1460
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+22/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+4.257,5104.619,490
+0,000
+0,0000,0000,0008.877,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+176932
+de
+22/05/201414.600,000
+R$
+Nota Fiscal Nrº.
+176932
+de
+22/05/20142400,000
+R$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+13.877,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.034.740,780
+1.033.806,660
+0,000934,120
+15168.615,450
+167.641,620
+0,000973,830
+1991.872,270
+91.459,750
+0,000412,520
+24653.938,150
+653.347,000
+0,000591,150
+28444.844,700
+444.386,320
+0,000458,380
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+9.904,43
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.370,000
+10.507,000
+(7)
+Estoque de Fechamento
+(9.1)
+10.476,000
+(10.2)Valor Acumulado no Mês
+214.780,27
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-31,000
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+6.537,0403.938,9600,0000,0000,0000,00010.476,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1470
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+22/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+5.994,2200,000
+0,000
+0,0000,0000,0005.994,220
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+176932
+de
+22/05/201435.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+10.994,220
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33504.215,500
+503.392,410
+0,000823,090
+36628.335,480
+626.761,330
+0,0001.574,150
+31064.444,010
+64.020,530
+0,000423,480
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+8.713,20
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.820,720
+8.173,500
+(7)
+Estoque de Fechamento
+(9.1)
+8.222,540
+(10.2)Valor Acumulado no Mês
+182.900,89
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+49,040
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+8.222,5400,0000,0000,0000,0000,0008.222,540
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1480
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+22/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+4.083,0000,000
+0,000
+0,0000,0000,0004.083,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+4.083,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52368.940,010
+368.454,550
+0,000485,460
+57359.937,700
+359.554,220
+0,000383,480
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+2.162,79
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+868,940
+3.214,060
+(7)
+Estoque de Fechamento
+(9.1)
+3.213,000
+(10.2)Valor Acumulado no Mês
+42.246,29
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-1,060
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+3.213,0000,0000,0000,0000,0000,0003.213,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1490
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+23/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+6.537,0403.938,960
+0,000
+0,0000,0000,00010.476,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+10.476,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.035.560,520
+1.034.740,780
+0,000819,740
+15169.846,550
+168.615,450
+0,0001.231,100
+1992.557,120
+91.872,270
+0,000684,850
+24654.590,490
+653.938,150
+0,000652,340
+28445.405,790
+444.844,700
+0,000561,090
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+11.606,46
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.949,120
+6.526,880
+(7)
+Estoque de Fechamento
+(9.1)
+6.513,000
+(10.2)Valor Acumulado no Mês
+226.386,73
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-13,880
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+3.801,3502.711,6500,0000,0000,0000,0006.513,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1500
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+23/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+8.222,5400,000
+0,000
+0,0000,0000,0008.222,540
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+8.222,540
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33505.268,760
+504.215,500
+0,0001.053,260
+36629.864,520
+628.335,480
+0,0001.529,040
+31065.283,220
+64.444,010
+0,000839,210
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+10.569,04
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.421,510
+4.801,030
+(7)
+Estoque de Fechamento
+(9.1)
+4.829,830
+(10.2)Valor Acumulado no Mês
+193.469,94
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+28,800
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+4.829,8300,0000,0000,0000,0000,0004.829,830
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1510
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+23/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+3.213,0000,000
+0,000
+0,0000,0000,0003.213,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+3.213,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52369.378,370
+368.940,010
+0,000438,360
+57360.469,500
+359.937,700
+0,000531,800
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+2.414,73
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+970,160
+2.242,840
+(7)
+Estoque de Fechamento
+(9.1)
+2.242,000
+(10.2)Valor Acumulado no Mês
+44.661,02
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-0,840
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+2.242,0000,0000,0000,0000,0000,0002.242,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1520
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+24/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+3.801,3502.711,650
+0,000
+0,0000,0000,0006.513,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+177160
+de
+23/05/201415.000,000
+R$
+Nota Fiscal Nrº.
+177160
+de
+23/05/201425.000,000
+R$
+Nota Fiscal Nrº.deR$
+Total Recebido
+10.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+16.513,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.036.396,180
+1.035.560,520
+0,000835,660
+15171.041,280
+169.846,550
+0,0001.194,730
+1993.140,290
+92.557,120
+0,000583,170
+24655.188,870
+654.590,490
+0,000598,380
+28445.763,960
+445.405,790
+0,000358,170
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+10.492,55
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.570,110
+12.942,890
+(7)
+Estoque de Fechamento
+(9.1)
+12.942,890
+(10.2)Valor Acumulado no Mês
+236.879,29
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+0,000
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+6.187,7906.755,1000,0000,0000,0000,00012.942,890
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1530
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+24/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+4.829,8300,000
+0,000
+0,0000,0000,0004.829,830
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+177160
+de
+23/05/201435.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+9.829,830
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33506.477,700
+505.268,760
+0,0001.208,940
+36631.179,630
+629.864,520
+0,0001.315,110
+31065.780,070
+65.283,220
+0,000496,850
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+9.331,56
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.020,900
+6.808,930
+(7)
+Estoque de Fechamento
+(9.1)
+6.849,780
+(10.2)Valor Acumulado no Mês
+202.801,50
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+40,850
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+6.849,7800,0000,0000,0000,0000,0006.849,780
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1540
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+24/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+2.242,0000,000
+0,000
+0,0000,0000,0002.242,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+177160
+de
+23/05/201455.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+7.242,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52369.677,490
+369.378,370
+0,000299,120
+57360.917,530
+360.469,500
+0,000448,030
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+1.859,66
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+747,150
+6.494,850
+(7)
+Estoque de Fechamento
+(9.1)
+6.494,860
+(10.2)Valor Acumulado no Mês
+46.520,68
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+0,010
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+6.494,8600,0000,0000,0000,0000,0006.494,860
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1550
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+25/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+6.187,7906.755,100
+0,000
+0,0000,0000,00012.942,890
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+12.942,890
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.037.072,700
+1.036.396,180
+0,000676,520
+15171.969,340
+171.041,280
+0,000928,060
+1993.369,130
+93.140,290
+0,000228,840
+24655.904,600
+655.188,870
+0,000715,730
+28446.082,120
+445.763,960
+0,000318,160
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+8.427,02
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.867,310
+10.075,580
+(7)
+Estoque de Fechamento
+(9.1)
+10.015,130
+(10.2)Valor Acumulado no Mês
+245.306,31
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-60,450
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+4.354,3705.660,7600,0000,0000,0000,00010.015,130
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1560
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+25/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+6.849,7800,000
+0,000
+0,0000,0000,0006.849,780
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+6.849,780
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33507.103,140
+506.477,700
+0,000625,440
+36632.117,530
+631.179,630
+0,000937,900
+31066.080,900
+65.780,070
+0,000300,830
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+5.758,42
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+1.864,170
+4.985,610
+(7)
+Estoque de Fechamento
+(9.1)
+5.015,520
+(10.2)Valor Acumulado no Mês
+208.559,92
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+29,910
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+5.015,5200,0000,0000,0000,0000,0005.015,520
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1570
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+25/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+6.494,8600,000
+0,000
+0,0000,0000,0006.494,860
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+6.494,860
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52370.056,280
+369.677,490
+0,000378,790
+57361.233,520
+360.917,530
+0,000315,990
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+1.729,31
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+694,780
+5.800,080
+(7)
+Estoque de Fechamento
+(9.1)
+5.779,000
+(10.2)Valor Acumulado no Mês
+48.249,99
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-21,080
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+5.779,0000,0000,0000,0000,0000,0005.779,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1580
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+26/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+4.354,3705.660,760
+0,000
+0,0000,0000,00010.015,130
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+10.015,130
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.038.108,990
+1.037.072,700
+0,0001.036,290
+15173.227,500
+171.969,340
+0,0001.258,160
+1993.909,260
+93.369,130
+0,000540,130
+24656.672,230
+655.904,600
+0,000767,630
+28446.522,380
+446.082,120
+0,000440,260
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+11.880,82
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+4.042,470
+5.972,660
+(7)
+Estoque de Fechamento
+(9.1)
+5.936,830
+(10.2)Valor Acumulado no Mês
+257.187,13
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-35,830
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+1.519,7904.417,0400,0000,0000,0000,0005.936,830
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1590
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+26/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+5.015,5200,000
+0,000
+0,0000,0000,0005.015,520
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+5.015,520
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33507.921,270
+507.103,140
+0,000818,130
+36633.711,410
+632.117,530
+0,0001.593,880
+31066.744,270
+66.080,900
+0,000663,370
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+9.499,85
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.075,380
+1.940,140
+(7)
+Estoque de Fechamento
+(9.1)
+1.951,780
+(10.2)Valor Acumulado no Mês
+218.059,77
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+11,640
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+1.951,7800,0000,0000,0000,0000,0001.951,780
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1600
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+26/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+5.779,0000,000
+0,000
+0,0000,0000,0005.779,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+5.779,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52370.538,970
+370.056,280
+0,000482,690
+57361.484,320
+361.233,520
+0,000250,800
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+1.825,66
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+733,490
+5.045,510
+(7)
+Estoque de Fechamento
+(9.1)
+5.075,780
+(10.2)Valor Acumulado no Mês
+50.075,64
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+30,270
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+5.075,7800,0000,0000,0000,0000,0005.075,780
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1610
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+27/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+1.519,7904.417,040
+0,000
+0,0000,0000,0005.936,830
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+177514
+de
+27/05/201415.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+10.936,830
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.038.842,320
+1.038.108,990
+0,000733,330
+15174.164,160
+173.227,500
+0,000936,660
+1994.246,520
+93.909,260
+0,000337,260
+24657.439,370
+656.672,230
+0,000767,140
+28447.055,360
+446.522,380
+0,000532,980
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+9.720,36
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.307,370
+7.629,460
+(7)
+Estoque de Fechamento
+(9.1)
+7.661,000
+(10.2)Valor Acumulado no Mês
+266.907,49
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+31,540
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+4.544,0803.116,9200,0000,0000,0000,0007.661,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1620
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+27/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+1.951,7800,000
+0,000
+0,0000,0000,0001.951,780
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+177514
+de
+27/05/201435.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+6.951,780
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33508.711,810
+507.921,270
+0,000790,540
+36634.734,090
+633.711,410
+0,0001.022,680
+31067.093,210
+66.744,270
+0,000348,940
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+6.678,91
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.162,160
+4.789,620
+(7)
+Estoque de Fechamento
+(9.1)
+4.818,350
+(10.2)Valor Acumulado no Mês
+224.738,68
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+28,730
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+4.818,3500,0000,0000,0000,0000,0004.818,350
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1630
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+27/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+5.075,7800,000
+0,000
+0,0000,0000,0005.075,780
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+5.075,780
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52370.775,000
+370.538,970
+0,000236,030
+57361.900,460
+361.484,320
+0,000416,140
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+1.623,25
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+652,170
+4.423,610
+(7)
+Estoque de Fechamento
+(9.1)
+4.451,150
+(10.2)Valor Acumulado no Mês
+51.698,89
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+27,540
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+4.451,1500,0000,0000,0000,0000,0004.451,150
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1640
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+28/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+4.544,0803.116,920
+0,000
+0,0000,0000,0007.661,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+177615
+de
+28/05/201415.000,000
+R$
+Nota Fiscal Nrº.
+177615
+de
+28/05/201422.000,000
+R$
+Nota Fiscal Nrº.deR$
+Total Recebido
+7.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+14.661,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.039.818,640
+1.038.842,320
+0,000976,320
+15175.862,560
+174.164,160
+0,0001.698,400
+1994.596,460
+94.246,520
+0,000349,940
+24658.223,140
+657.439,370
+0,000783,770
+28447.565,180
+447.055,360
+0,000509,820
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+12.691,34
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+4.318,250
+10.342,750
+(7)
+Estoque de Fechamento
+(9.1)
+10.337,000
+(10.2)Valor Acumulado no Mês
+279.598,83
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-5,750
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+6.519,4203.817,5800,0000,0000,0000,00010.337,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1650
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+28/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+4.818,3500,000
+0,000
+0,0000,0000,0004.818,350
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+177615
+de
+28/05/201435.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+9.818,350
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33509.307,650
+508.711,810
+0,000595,840
+36635.820,740
+634.734,090
+0,0001.086,650
+31067.460,970
+67.093,210
+0,000367,760
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+6.333,22
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.050,250
+7.768,100
+(7)
+Estoque de Fechamento
+(9.1)
+7.814,700
+(10.2)Valor Acumulado no Mês
+231.071,90
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+46,600
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+7.814,7000,0000,0000,0000,0000,0007.814,700
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1660
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+28/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+4.451,1500,000
+0,000
+0,0000,0000,0004.451,150
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+4.451,150
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52371.296,880
+370.775,000
+0,000521,880
+57362.240,070
+361.900,460
+0,000339,610
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+2.144,25
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+861,490
+3.589,660
+(7)
+Estoque de Fechamento
+(9.1)
+3.568,130
+(10.2)Valor Acumulado no Mês
+53.843,14
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-21,530
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+3.568,1300,0000,0000,0000,0000,0003.568,130
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1670
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+29/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+6.519,4203.817,580
+0,000
+0,0000,0000,00010.337,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+17762
+de
+29/05/201425.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+15.337,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.040.904,990
+1.039.818,640
+0,0001.086,350
+15177.310,680
+175.862,560
+0,0001.448,120
+1995.132,110
+94.596,460
+0,000535,650
+24658.993,590
+658.223,140
+0,000770,450
+28448.048,640
+447.565,180
+0,000483,460
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+12.708,32
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+4.324,030
+11.012,970
+(7)
+Estoque de Fechamento
+(9.1)
+11.035,000
+(10.2)Valor Acumulado no Mês
+292.307,15
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+22,030
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+3.471,3307.563,6700,0000,0000,0000,00011.035,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1680
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+29/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+7.814,7000,000
+0,000
+0,0000,0000,0007.814,700
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+7.814,700
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33510.056,740
+509.307,650
+0,000749,090
+36637.253,930
+635.820,740
+0,0001.433,190
+31068.116,450
+67.460,970
+0,000655,480
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+8.765,84
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.837,760
+4.976,940
+(7)
+Estoque de Fechamento
+(9.1)
+5.006,800
+(10.2)Valor Acumulado no Mês
+239.837,74
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+29,860
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+5.006,8000,0000,0000,0000,0000,0005.006,800
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1690
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+29/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+3.568,1300,000
+0,000
+0,0000,0000,0003.568,130
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+3.568,130
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52371.471,760
+371.296,880
+0,000174,880
+57362.617,570
+362.240,070
+0,000377,500
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+1.374,87
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+552,380
+3.015,750
+(7)
+Estoque de Fechamento
+(9.1)
+2.997,660
+(10.2)Valor Acumulado no Mês
+55.218,02
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-18,090
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+2.997,6600,0000,0000,0000,0000,0002.997,660
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1700
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+30/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+3.471,3307.563,670
+0,000
+0,0000,0000,00011.035,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+11.035,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.041.911,770
+1.040.904,990
+0,0001.006,780
+15178.443,090
+177.310,680
+0,0001.132,410
+1995.609,970
+95.132,110
+0,000477,860
+24659.838,180
+658.993,590
+0,000844,590
+28448.483,230
+448.048,640
+0,000434,590
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+11.451,02
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+3.896,230
+7.138,770
+(7)
+Estoque de Fechamento
+(9.1)
+7.121,000
+(10.2)Valor Acumulado no Mês
+303.758,17
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-17,770
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+854,2806.266,7200,0000,0000,0000,0007.121,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1710
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+30/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+5.006,8000,000
+0,000
+0,0000,0000,0005.006,800
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+5.006,800
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33510.905,870
+510.056,740
+0,000849,130
+36638.739,110
+637.253,930
+0,0001.485,180
+31068.709,140
+68.116,450
+0,000592,690
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+9.041,50
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.927,000
+2.079,800
+(7)
+Estoque de Fechamento
+(9.1)
+2.092,270
+(10.2)Valor Acumulado no Mês
+248.879,25
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+12,470
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+2.092,2700,0000,0000,0000,0000,0002.092,270
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1720
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+30/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+2.997,6600,000
+0,000
+0,0000,0000,0002.997,660
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+Volume Vendido no Dia (em litros)(4.4)
+Volume Disponível
+2.997,660
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52372.023,180
+371.471,760
+0,000551,420
+57363.270,420
+362.617,570
+0,000652,850
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+2.997,43
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+1.204,270
+1.793,390
+(7)
+Estoque de Fechamento
+(9.1)
+1.785,000
+(10.2)Valor Acumulado no Mês
+58.215,45
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+-8,390
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+1.785,0000,0000,0000,0000,0000,0001.785,000
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1730
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA C COMUM
+Data:
+31/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+120000
+854,2806.266,720
+0,000
+0,0000,0000,0007.121,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+178025
+de
+31/05/201415.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+12.121,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+111.042.734,110
+1.041.911,770
+0,000822,340
+15179.933,780
+178.443,090
+0,0001.490,690
+1996.203,910
+95.609,970
+0,000593,940
+24660.580,510
+659.838,180
+0,000742,330
+28449.085,990
+448.483,230
+0,000602,760
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+12.169,40
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+4.252,060
+7.868,940
+(7)
+Estoque de Fechamento
+(9.1)
+7.868,940
+(10.2)Valor Acumulado no Mês
+315.927,57
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+0,000
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+120000
+2.947,3104.921,6300,0000,0000,0000,0007.868,940
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1740
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+GASOLINA ADITIVADA
+Data:
+31/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+300000
+2.092,2700,000
+0,000
+0,0000,0000,0002.092,270
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+178025
+de
+31/05/201437.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+7.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+9.092,270
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+33511.906,540
+510.905,870
+0,0001.000,670
+36640.050,650
+638.739,110
+0,0001.311,540
+31068.886,860
+68.709,140
+0,000177,720
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+7.668,98
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+2.489,930
+6.602,340
+(7)
+Estoque de Fechamento
+(9.1)
+6.612,070
+(10.2)Valor Acumulado no Mês
+256.548,23
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+9,730
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+300000
+6.612,0700,0000,0000,0000,0000,0006.612,070
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1750
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
+
+Livro de Movimentação de Combustíveis (LMC)
+(1)Produto:
+ETANOL HIDRATADO COMUM GRANEL
+Data:
+31/05/2014
+Estoque de Abertura (Medição Física no início do dia)
+TQTQTQTQTQTQEstoque Abertura
+500000
+1.785,0000,000
+0,000
+0,0000,0000,0001.785,000
+Volume Recebido no Dia (em litros)Volume RecebidoNº. TQ Descarga
+Nota Fiscal Nrº.
+178087
+de
+31/05/201455.000,000
+R$
+Nota Fiscal Nrº.deR$
+Nota Fiscal Nrº.deR$
+Total Recebido
+5.000,000
+Volume Vendido no Dia (em litros)
+(4.4)
+Volume Disponível
+6.785,000
+TQBico+ Fechamento- Abertura- Aferições= Vendas no Bico
+Preço/Litro
+52372.400,340
+372.023,180
+0,000377,160
+57363.738,850
+363.270,420
+0,000468,430
+Valor das Vendas (R$)(10)
+(10.1)Valor das Vendas do Dia
+5.7 X preço bomba
+2.097,91
+(5.7)
+Vendas
+no Dia
+Estoque Escritural
+(6)
+(4.4 - 5.7)
+845,590
+5.939,410
+(7)
+Estoque de Fechamento
+(9.1)
+5.939,410
+(10.2)Valor Acumulado no Mês
+60.313,35
+(11)Para uso do Revendedor
+- Perdas
++ Sobras (*)
+(8)
+0,000
+(12)   Destinado a Fiscalização
+(13)Observações
+DNC
+OUTROS ÓRGÃOS FISCAIS
+Conciliação dos Estoques
+TQTQTQTQTQTQ(9.1)Total
+500000
+5.939,4100,0000,0000,0000,0000,0005.939,410
+(9)
+Fechamento
+Físico
+(*) ATENÇÃO: Se o resultado for negativo, pode estar havendo vazamento de produto para o meio ambiente.
+1760
+POSTO:
+Livro:Página:
+MEGA POSTO LTDA - M01
